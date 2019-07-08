@@ -1,0 +1,6 @@
+1.convert grads.dat to single elements
+  ~/jobs/2019/xmp/mkgrads/plot_grads/rtconv
+2.use grads for plot
+~/jobs/2019/xmp/mkgrads/plot_grads
+ base: exec ppi.a.gs (filename)
+2.1 create ctl.file
